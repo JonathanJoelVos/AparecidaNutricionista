@@ -1,0 +1,23 @@
+.label__formulario {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    width: 100%;
+    margin-right: 16px;
+}
+
+.label__formulario input {
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+}
+
+.grupo--forms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adicionar--paciente {
+    border-radius: 10px;
+    padding: 16px 8px;
+}
